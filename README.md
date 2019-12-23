@@ -167,7 +167,7 @@ The car is able to make one complete loop around the 6946m highway (the longer r
 
 
 
-#### Environment Setup
+# Environment Setup
 The project involves the Term 3 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases/tag/T3_v1.2)
 
 To run the simulator on Mac/Linux, first make the binary file executable with the following command:
@@ -238,3 +238,9 @@ the path has processed since last time.
     git checkout e94b6e1
     ```
 
+# Pass Certificate
+![](./Pass/Pass.png)
+![](./Pass/Review-0.png)
+![](./Pass/Review-3.png)
+![](./Pass/Review-4.png)
+![](./Pass/Review-5.png)
