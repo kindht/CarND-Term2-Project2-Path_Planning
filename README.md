@@ -1,7 +1,8 @@
-# CarND-Path-Planning-Project
 
-# Overview
-This is the project for the path planning course in Udacity's Self-Driving Car Engineer Nanodegree Program
+# 无人驾驶(纳米学位)-第二学期-项目2-路径规划
+# CarND-Term2-Project2-Path_Planning (C++)
+
+This is the 2nd project in Term 2 for the **Self-Driving Car Engineer** Nanodegree program at [Udacity](https://cn.udacity.com/course/self-driving-car-engineer--nd013)
 
 ### Goals
 In this project, the goal is to safely navigate a car around a virtual highway with other traffic that is driving +-10 MPH of the 50 MPH speed limit. 
